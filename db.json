@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "password": "dfgh",
+      "trackerData": []
+    },
+    {
+      "fullName": "nikita",
+      "email": "nikirathee24@gmail.com",
+      "password": "1234",
+      "id": 2,
+      "trackerData": [
+        {
+          "type": "Expense",
+          "category": "Housing",
+          "amount": "12999",
+          "date": "2023-10-26"
+        }
+      ]
+    }
+  ]
+}
